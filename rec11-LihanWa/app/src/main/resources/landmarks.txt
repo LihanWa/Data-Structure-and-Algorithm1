@@ -1,0 +1,17 @@
+Landmark,latitude,longitude
+Phipps Conservatory and Botanical Gardens,40.43893814086914,-79.94772338867188
+Rodin Museum,39.9619295,-75.1739508
+Valley Forge National Historical Park,40.099609375,-75.44414520263672
+Braddock Carnegie Library,40.4013336,-79.8656608
+Fallingwater,39.9062397,-79.4679693
+Tomb of the Unknown Soldier,39.94707489013672,-75.1526870727539
+Susquehanna Art Museum,40.2709998,-76.8896109
+Liberty Bell,39.9494654,-75.1502823
+Atwater Kent Museum of Philadelphia History,39.950264,-75.1518873
+Benjamin Franklin National Memorial,39.9582144,-75.1731665
+Beth Sholom Synagogue,40.08224105834961,-75.12635040283203
+Cathedral Basilica of Saints Peter and Paul,39.95733642578125,-75.16851806640625
+Independence Hall,39.9534461,-75.1546218
+Gloria Dei (Old Swede's) Church,39.934486389160156,-75.14347076416016
+Philadelphia City Hall,39.9524002,-75.1629879
+Philadelphia Vietnam Veterans Memorial,39.9439151,-75.1428289
